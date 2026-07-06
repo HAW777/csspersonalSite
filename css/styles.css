@@ -1,0 +1,218 @@
+.top-container {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  border: 10px solid;
+  padding: 20px;
+}
+.middle-container {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  border: 20px solid;
+  margin-left: 110px;
+}
+.bot-container {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  border: 10px solid;
+  margin-left: 200px;
+}
+.top-con2 {
+  background-color: black;
+  width: 50px;
+  height: 50px;
+  border: 10px solid;
+  margin-left: 200px;
+}
+.mid-con2 {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border: 10px solid;
+  margin-left: 130px;
+}
+.bot-con2 {
+  background-color: yellow;
+  width: 50px;
+  height: 50px;
+  border: 10px solid;
+  margin-left: 60px;
+}
+.blue {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  background-color: blue;
+}
+.white {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  background-color: whitesmoke;
+  left: 50px;
+  bottom: 50px;
+}
+.red {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  background-color: red;
+  left: 100px;
+  bottom: 100px;
+  margin-bottom: 0;
+}
+.green {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  display: inline-block;
+  background-color: green;
+  right: 110px;
+}
+.france{
+    margin: 0;
+    width: 60px;
+    height: 60px;
+}
+.white2 {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  display:inline-block;
+  background-color:whitesmoke;
+  left: 50px;
+  
+}
+.red2 {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  display: inline-block;
+  background-color: red;
+  left: 48px;
+}
+.pro{
+    text-decoration: underline;
+}
+/* Css personalSite StartHere */
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+    color: gray;
+
+}
+.first-container{
+    background-color: lightblue;
+    position: relative;
+    padding-top: 100px;
+}
+.second-container{
+ 
+}
+.third-container a:hover{
+  color: red;
+}
+.second-container h2{
+  font-weight: bold;
+}
+.profile{
+  margin:25px auto 25px;
+}
+h1{
+    width: 20%;
+    margin:0 auto;
+    font-family: 'Sacramento',cursive;
+    font-size: 4rem;
+    color: greenyellow;
+    line-height: 1.5;
+}
+p{
+  line-height: 1.5;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  margin: 5px 10px 5px;
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2rem;
+    color: yellowgreen;
+    font-weight: normal;
+    
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+    color: orange;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    margin: auto 15px 10px;
+}
+
+.skills{
+  
+}
+.skill1{
+    width: 30%;
+    float: left;
+}
+.skill2{
+    width: 30%;
+    float:right;
+}
+.skill-row{
+    width: 50%;
+    margin: 40px auto 40px auto;
+    text-align: left;
+    line-height: 2;
+    padding:10px;
+}
+.cloud{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.top-cloud{
+   position: absolute;
+   right: 400px;
+   top: 50px;
+}
+.bot-cloud{
+    position: absolute;
+    left: 450px;
+    bottom: 450px;
+}
+.moutain:hover{
+    background-color: cornflowerblue;
+}
+hr{
+  width: 30%;
+  border: none;
+  border-top: dotted 3.5px black;
+  padding: 5px;
+}
+.myButton {
+	background-color:#44c767;
+	border-radius:24px;
+	border:4px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:15px;
+	padding:17px 30px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
